@@ -1,4 +1,4 @@
-# Stock Price Predictor
+# StockSenseAI
 
 An AI-powered stock price prediction application that combines neural networks and sentiment analysis to provide comprehensive stock movement predictions.
 
@@ -248,3 +248,4 @@ For issues and questions:
 ---
 
 **Built with ❤️ using AI and modern web technologies**
+
