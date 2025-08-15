@@ -245,3 +245,6 @@ For issues and questions:
 2. Review the API documentation
 3. Open an issue on GitHub
 
+---
+
+**Built with ❤️ using AI and modern web technologies**
